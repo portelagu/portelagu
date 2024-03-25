@@ -3,7 +3,7 @@
 -  🌱 atualmente estudando javascript
 - ⚡ meus pronomes são: ele/dele <br>
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=portelagu&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portelagu&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
