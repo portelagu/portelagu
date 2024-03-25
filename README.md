@@ -2,7 +2,7 @@
 - 🔭 estudante de ADS
 -  🌱 atualmente estudando javascript
 - ⚡ meus pronomes são: ele/dele <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portelagu&theme=catppuccin_latte&show_icons=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portelagu&layout=compact))<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portelagu&theme=catppuccin_latte)](https://github.com/portelagu/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
