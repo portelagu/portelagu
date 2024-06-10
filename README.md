@@ -12,7 +12,7 @@
 </div>
 
 ###
-<img src="./images/gif-1">
+<img src="./images/gif-1.gif">
 
 <div align="left">
 <h3>Minhas tecnologias ⋆.˚</h3>
