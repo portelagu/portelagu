@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=25&pause=1000&color=52796F&center=true&vCenter=true&random=false&width=470&lines=%F0%9D%9C%97%F0%9D%9C%9A+Welcome+to+my+profile!+%E2%8A%B9+%E0%A3%AA+%CB%96" alt="Typing SVG" /></a>
-  ![header_gif](https://github.com/portelagu/portelagu/assets/126726122/12387d31-e335-4da0-9868-d827169bcc39)
+  <img src="https://github.com/portelagu/portelagu/assets/126726122/12387d31-e335-4da0-9868-d827169bcc39">
 </div>
 <p>Atualmente, sou um estudante do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas, com um forte objetivo de consolidar minhas habilidades como programador. Minha principal área de interesse é o desenvolvimento web front-end, onde busco constantemente aprimorar minhas capacidades técnicas e criativas. Tenho um grande interesse em aprender novas tecnologias e metodologias, o que me motiva a sempre buscar conhecimento e me desafiar com projetos inovadores. Além disso, dedico-me ao estudo contínuo para fortalecer minhas competências profissionais, acredito que o aprendizado contínuo e a adaptabilidade são fundamentais para criar soluções inovadoras e eficientes.</p>
 
