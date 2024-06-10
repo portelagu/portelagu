@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=27&pause=1000&color=84A98C&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Portela!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=52796F&center=true&vCenter=true&random=false&width=450&height=30&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Portela!)](https://git.io/typing-svg)
 
 ###
 
