@@ -12,6 +12,8 @@
 
 ###
 
+<img align="right" alt="" height="190px" src="./images/gif-1.gif">
+
 <div align="left">
 <h3>Minhas tecnologias ⋆.˚</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
