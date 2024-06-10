@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=52796F&center=true&vCenter=true&random=false&width=450&height=30&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Portela!)](https://git.io/typing-svg)
-
-###
-
 <p>Atualmente, sou um estudante do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas, com um forte objetivo de consolidar minhas habilidades como programador. Minha principal área de interesse é o desenvolvimento web front-end, onde busco constantemente aprimorar minhas capacidades técnicas e criativas. Tenho um grande interesse em aprender novas tecnologias e metodologias, o que me motiva a sempre buscar conhecimento e me desafiar com projetos inovadores. Além disso, dedico-me ao estudo contínuo para fortalecer minhas competências profissionais, acredito que o aprendizado contínuo e a adaptabilidade são fundamentais para criar soluções inovadoras e eficientes.</p>
 
 ###
