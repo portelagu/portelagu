@@ -14,7 +14,7 @@
 </div>
 
 ###
-<img align="right" height= 300 src="./images/gif-1.gif">
+<img align="right" height= 270 src="./images/gif-1.gif">
 
 <div align="left">
 <h3>Minhas tecnologias ⋆.˚</h3>
