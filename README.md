@@ -8,6 +8,7 @@
 <p>Atualmente, sou um estudante do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas, com um forte objetivo de consolidar minhas habilidades como programador. Minha principal área de interesse é o desenvolvimento web front-end, onde busco constantemente aprimorar minhas capacidades técnicas e criativas. Tenho um grande interesse em aprender novas tecnologias e metodologias, o que me motiva a sempre buscar conhecimento e me desafiar com projetos inovadores. Além disso, dedico-me ao estudo contínuo para fortalecer minhas competências profissionais, acredito que o aprendizado contínuo e a adaptabilidade são fundamentais para criar soluções inovadoras e eficientes.</p>
 
 ###
+<h2><h2>
 <div align= "center">
   <img src="https://github-readme-stats.vercel.app/api?username=portelagu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=portelagu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
