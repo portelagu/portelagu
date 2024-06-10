@@ -3,7 +3,6 @@
 <img  alt="" src="./images/header_github.gif">
 </div>
 
-<h2><h2>
 
 <p>Atualmente, sou um estudante do terceiro semestre do curso de Análise e Desenvolvimento de Sistemas, com um forte objetivo de consolidar minhas habilidades como programador. Minha principal área de interesse é o desenvolvimento web front-end, onde busco constantemente aprimorar minhas capacidades técnicas e criativas. Tenho um grande interesse em aprender novas tecnologias e metodologias, o que me motiva a sempre buscar conhecimento e me desafiar com projetos inovadores. Além disso, dedico-me ao estudo contínuo para fortalecer minhas competências profissionais, acredito que o aprendizado contínuo e a adaptabilidade são fundamentais para criar soluções inovadoras e eficientes.</p>
 
