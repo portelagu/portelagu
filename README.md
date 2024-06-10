@@ -12,7 +12,7 @@
 </div>
 
 ###
-
+<img src="./images/gif-1">
 
 <div align="left">
 <h3>Minhas tecnologias ⋆.˚</h3>
@@ -44,12 +44,18 @@
   <a href="https://www.twitch.tv/porteiagu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=354f52&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+  
+  <br>
+  
   <a href="https://discordapp.com/users/1082423173955453068" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=354f52&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://mailto:ggomesportela26@gmail.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=354f52&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+  <br>
+  
   <a href="https://www.linkedin.com/in/portelagu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=354f52&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
