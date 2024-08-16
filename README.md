@@ -4,7 +4,17 @@
 </div>
 
 
-<p>Olá, eu sou o Gustavo! Atual estudante de Análise e Desenvolvimento de Sistemas, com um forte objetivo de consolidar minhas habilidades como programador. Minha principal área de interesse é o desenvolvimento web front-end, onde busco constantemente aprimorar minhas capacidades técnicas e criativas. Tenho um grande interesse em aprender novas tecnologias e metodologias, o que me motiva a sempre buscar conhecimento e me desafiar com projetos inovadores. Além disso, dedico-me ao estudo contínuo para fortalecer minhas competências profissionais, acredito que o aprendizado contínuo e a adaptabilidade são fundamentais para criar soluções inovadoras e eficientes.</p>
+<p>Olá, prazer! Me chamo Gustavo Portela. 
+
+Desde o início da minha carreira, tenho me dedicado a aprimorar minhas habilidades como Desenvolvedor Web, investindo de forma contínua em diversos cursos para expandir meus conhecimentos de maneira incessante.
+
+Com esse propósito, estou cursando Programação Web em Java no Senac, juntamente com o Instituto Proa. Também estou cursando Sistemas de Informação, além disso, realizei três semestres de Análise e Desenvolvimento de Sistemas e planejo retomar e concluir esse curso em um futuro próximo. 
+
+No momento, estou aprofundando meus estudos em React e MySQL. Além de possuir habilidades sólidas em HTML5, CSS3, e JavaScript. Me esforço constatemente para melhorar o meu entendimento em algoritmos e lógica de programação.
+
+O aprendizado autodidata em Design Gráfico me proporcionou o domínio de ferramentas essenciais como Canva, Adobe Photoshop, Illustrator, After Effects, Media Encoder e Premiere Pro. Para complementar, possuo proficiência em inglês nível B2, certificado pelo exame FCE da Cambridge English.
+
+Sou uma pessoa empática, lógica, criativa e proativa, sempre aberto a novas oportunidades. Estou à disposição para conversarmos ou para que possamos nos conectar melhor, sinta-se à vontade para me contatar pelo chat</p>
 
 ###
 <h2><h2>
