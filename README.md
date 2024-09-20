@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<p>Olá, prazer! Tenho me dedicado a aprimorar minhas habilidades como Desenvolvedor Web, investindo de forma contínua em diversos cursos para expandir meus conhecimentos de maneira incessante. Com esse propósito, estou cursando Programação Web em Java no Senac, através do curso PROPROFISSÃO oferecido pelo instituto Proa. 
+<p>Olá, prazer! Me chamo Gustavo Portela. Tenho me dedicado a aprimorar minhas habilidades como Desenvolvedor Web, investindo de forma contínua em diversos cursos para expandir meus conhecimentos de maneira incessante. Com esse propósito, estou cursando Programação Web em Java no Senac, através do curso PROPROFISSÃO oferecido pelo instituto Proa. 
   Também estou cursando Sistemas de Informação, além disso, realizei três semestres de Análise e Desenvolvimento de Sistemas e planejo retomar e concluir esse curso em um futuro próximo. No momento, estou aprofundando meus estudos em React e MySQL. Além de possuir habilidades sólidas em HTML5, CSS3, e JavaScript. Me esforço constatemente para melhorar o meu entendimento em algoritmos e lógica de programação :)
 </div>
 
