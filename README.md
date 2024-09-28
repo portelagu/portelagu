@@ -35,13 +35,11 @@
   </a>
 </div>
 
-###
 
 <br clear="both">
 
 <h4 align="left">As minhas tecnologias ⋆.˚</h4>
 
-###
 
 <br clear="both">
 
@@ -61,13 +59,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h4 align="left">Atualmente aprendendo... ⋆.˚</h4>
 
-###
 
 <br clear="both">
 
@@ -83,4 +79,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
-###
