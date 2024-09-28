@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Se conecte comigo ⋆.˚</h4>
+<h3 align="left">Se conecte comigo ⋆.˚</h4>
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<h4 align="left">As minhas tecnologias ⋆.˚</h4>
+<h3 align="left">As minhas tecnologias ⋆.˚</h4>
 
 
 <br clear="both">
@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<h4 align="left">Atualmente aprendendo... ⋆.˚</h4>
+<h3 align="left">Atualmente aprendendo... ⋆.˚</h4>
 
 
 <br clear="both">
