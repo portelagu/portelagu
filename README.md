@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="230" src="https://i.ibb.co/G9qrxGZ/Icone.jpg"  />
+<img align="right" height="200" src="https://i.ibb.co/G9qrxGZ/Icone.jpg"  />
 
 ###
 
