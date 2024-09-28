@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&pause=1000&color=BC6C25&center=true&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.;Sou+um+desenvolvedor+web+Front-end.)](https://git.io/typing-svg)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=bc6c25&text=Gustavo%20Portela&textBg=false&animation=fadeIn&fontColor=FFF"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=BC6C25&center=true&width=430&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.+%E2%8B%86+%CB%9A%EF%BD%A1)](https://git.io/typing-svg)
 
 ###
 <p align="left">✨ Desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação.<br>🎯 Tenho como foco aprofundar meus conhecimentos em React, criando aplicações dinâmicas e eficientes.<br>💌 Grande paixão por UI/UX design e gestão de projetos.</p>
