@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="125" src="https://i.ibb.co/G9qrxGZ/Icone.jpg"  />
+<img align="right" height="350" src="https://i.ibb.co/G9qrxGZ/Icone.jpg"  />
 
 ###
 
@@ -27,7 +27,7 @@
   <a href="https://www.twitch.tv/porteiiagu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=bc6c25&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://hotmail.com/" target="_blank">
+  <a href="https://mailto:gustavogomesportela@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=bc6c25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/portelagu/" target="_blank">
