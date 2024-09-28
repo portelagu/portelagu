@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&pause=1000&color=BC6C25&center=true&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.;Sou+um+desenvolvedor+web+Front-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=30&pause=1000&color=BC6C25&center=true&width=700&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.;Sou+um+desenvolvedor+web+Front-end.)](https://git.io/typing-svg)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=bc6c25&text=Gustavo%20Portela&textBg=false&animation=fadeIn&fontColor=FFF"/>
 
 ###
