@@ -16,10 +16,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.ibb.co/G9qrxGZ/Icone.jpg"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/portelagu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=bc6c25&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
