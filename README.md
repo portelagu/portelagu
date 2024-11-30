@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=bc6c25&text=Gustavo%20Portela&textBg=false&animation=fadeIn&fontColor=FFF"/>
 
 ###
-<p align="left">✨ Desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação.<br>🎯 Tenho como foco aprofundar meus conhecimentos em React, criando aplicações dinâmicas e eficientes. <br>💌 Grande paixão por UI/UX design e gestão de projetos.<br>🗺️ Me aventurando em análise de dados.</p>
+<p align="left">✨ Paixão por desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação.<br>🎯 Tenho como foco aprofundar meus conhecimentos em React, criando aplicações dinâmicas e eficientes. <br>💌 Entusiasta de UI/UX design e gestão de projetos.<br>🗺️ Me aventurando em análise de dados.</p>
 
 ###
 <div align="center">
