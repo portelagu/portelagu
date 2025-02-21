@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=BC6C25&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.;Sou+um+desenvolvedor+web+Front-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=BC6C25&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=bc6c25&text=Gustavo%20Portela&textBg=false&animation=fadeIn&fontColor=FFF"/>
 
 ###
-<p align="left">✨ Paixão por desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação.<br>🎯 Tenho como foco aprofundar meus conhecimentos em React, criando aplicações dinâmicas e eficientes. <br>💌 Entusiasta de UI/UX design e gestão de projetos.<br>🗺️ Me aventurando em análise de dados.</p>
+<p align="left">✨ Paixão por desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação. <br>💌 Entusiasta de UI/UX design e gestão de projetos.<br>🗺️ Me aventurando em análise de dados e automações com python<br>🎯 Tenho como foco aprofundar meus conhecimentos em desenvolvimento e dados
 
 ###
 <div align="center">
@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/portelagu/" target="_blank">
+  <a href="https://www.instagram.com/gustvoportela/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=bc6c25&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://mailto:gustavogomesportela@hotmail.com" target="_blank">
@@ -71,9 +71,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
 <picture align="center">
