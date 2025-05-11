@@ -1,8 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=BC6C25&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&size=41&pause=1000&color=BC6C25&center=true&random=true&width=1000&height=70&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=bc6c25&text=Gustavo%20Portela&textBg=false&animation=fadeIn&fontColor=FFF"/>
 
 ###
-<p align="left">✨ Paixão por desenvolvimento web Front-end.<br>📚 Atual estudante de Sistemas de Informação. <br>💌 Entusiasta de UI/UX design e gestão de projetos.<br>🗺️ Me aventurando em análise de dados e automações com python.<br>🎯 Tenho como foco aprofundar meus conhecimentos em desenvolvimento e dados.
+<p align="left">
+✨ Apaixonado por dados e desenvolvimento front-end.<br>
+📚 Atual estudante de Sistemas de Informação. <br>
+💌 Entusiasta de UI/UX design e gestão de projetos.<br>
+🗺️ Me aventurando em análise de dados e automações com python.<br>
+🎯 Tenho como foco aprofundar meus conhecimentos em análise e engenharia de dados.
 
 ###
 <div align="center">
