@@ -3,6 +3,7 @@
 
 ###
 <p align="left">
+💻 Sou estagiário no Itaú Unibanco.<br>
 ✨ Apaixonado por dados e desenvolvimento front-end.<br>
 📚 Atual estudante de Sistemas de Informação. <br>
 💌 Entusiasta de UI/UX design e gestão de projetos.<br>
