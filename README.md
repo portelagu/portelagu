@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="left" padding="10px">
   <a href="https://www.instagram.com/gustvoportela/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=bc6c25&logoColor=fff&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
